@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/MamonakuCommittee/status/master/mamonaku-logo-1035.png
   name: Mamonaku Status
   introTitle: "**Mamonaku Committee Status**"
-  introMessage: This status page is powered by [Uptime](https://github.com/upptime/upptime).
+  #introMessage: This status page is powered by [Uptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
