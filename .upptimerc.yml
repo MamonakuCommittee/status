@@ -14,10 +14,6 @@ sites:
     url: https://mamonaku.io
   - name: World Tides API
     url: https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_WEATHER_ONLINE&date=today
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
 
 assignees: # Users to assign downtime issues (optional)
   - jeremieb
