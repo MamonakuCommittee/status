@@ -6,6 +6,10 @@ repo: status # Your GitHub repository name
 sites:
   - name: JeremieBerduck.com
     url: https://jeremieberduck.com
+    icon: https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png
+  - name: Shoobie.app
+    url: https://shoobie.app
+    icon: https://shoobie.app/user/themes/shoobie/images/favicons/apple-touch-icon.png
   - name: Mamonaku.io
     url: https://mamonaku.io
 
