@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 930,
-    "timeWeek": 1003,
-    "timeMonth": 1003,
-    "timeYear": 1003,
+    "time": 997,
+    "timeDay": 928,
+    "timeWeek": 997,
+    "timeMonth": 997,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1237,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
-    "timeYear": 1237,
+    "time": 1226,
+    "timeDay": 1226,
+    "timeWeek": 1226,
+    "timeMonth": 1226,
+    "timeYear": 1226,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1549,
-    "timeDay": 1430,
-    "timeWeek": 1549,
-    "timeMonth": 1549,
-    "timeYear": 1549,
+    "time": 1540,
+    "timeDay": 1428,
+    "timeWeek": 1540,
+    "timeMonth": 1540,
+    "timeYear": 1540,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "World Tides API",
+    "url": "https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_WEATHER_ONLINE&date=today",
+    "icon": "https://favicons.githubusercontent.com/www.worldtides.info",
+    "slug": "world-tides-api",
+    "status": "down",
+    "uptime": "5.79%",
+    "uptimeDay": "5.79%",
+    "uptimeWeek": "5.79%",
+    "uptimeMonth": "5.79%",
+    "uptimeYear": "5.79%",
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
+    "dailyMinutesDown": {
+      "2021-01-01": 0
+    }
   }
 ]
