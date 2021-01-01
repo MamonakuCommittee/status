@@ -13,7 +13,23 @@ sites:
   - name: Mamonaku.io
     url: https://mamonaku.io
   - name: World Tides API
-    url: https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_WEATHER_ONLINE&date=today
+    url: https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_TIDE&date=today
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: World Weather Online API
+    url: https://api.worldweatheronline.com/premium/v1/marine.ashx?key=$API_WORLD_WEATHER_ONLINE&q=52.370216,4.895168&tide=no&fx=yes&tp=1&format=json
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Open Weather API
+    url: https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 assignees: # Users to assign downtime issues (optional)
   - jeremieb
