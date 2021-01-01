@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 928,
-    "timeWeek": 997,
-    "timeMonth": 997,
-    "timeYear": 997,
+    "time": 1019,
+    "timeDay": 973,
+    "timeWeek": 1019,
+    "timeMonth": 1019,
+    "timeYear": 1019,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 1226,
-    "timeWeek": 1226,
-    "timeMonth": 1226,
-    "timeYear": 1226,
+    "time": 1249,
+    "timeDay": 1249,
+    "timeWeek": 1249,
+    "timeMonth": 1249,
+    "timeYear": 1249,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1540,
-    "timeDay": 1428,
-    "timeWeek": 1540,
-    "timeMonth": 1540,
-    "timeYear": 1540,
+    "time": 1537,
+    "timeDay": 1436,
+    "timeWeek": 1537,
+    "timeMonth": 1537,
+    "timeYear": 1537,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/www.worldtides.info",
     "slug": "world-tides-api",
     "status": "down",
-    "uptime": "2.89%",
-    "uptimeDay": "2.89%",
-    "uptimeWeek": "2.89%",
-    "uptimeMonth": "2.89%",
-    "uptimeYear": "2.89%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2021-01-01": 0
+      "2021-01-01": 5
     }
   }
 ]
