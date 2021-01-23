@@ -4,10 +4,10 @@
     "url": "https://jeremieberduck.com",
     "icon": "https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png",
     "slug": "jeremie-berduck-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 919,
@@ -15,16 +15,18 @@
     "timeWeek": 774,
     "timeMonth": 919,
     "timeYear": 919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 1
+    }
   },
   {
     "name": "Shoobie.app",
     "url": "https://shoobie.app",
     "icon": "https://shoobie.app/user/themes/shoobie/images/favicons/apple-touch-icon.png",
     "slug": "shoobie-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1051,
     "timeMonth": 1167,
     "timeYear": 1167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 0
+    }
   },
   {
     "name": "Mamonaku.io",
     "url": "https://mamonaku.io",
     "icon": "https://favicons.githubusercontent.com/mamonaku.io",
     "slug": "mamonaku-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1562,
     "timeMonth": 1593,
     "timeYear": 1593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 0
+    }
   },
   {
     "name": "World Tides API",
