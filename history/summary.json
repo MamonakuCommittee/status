@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 912,
-    "timeDay": 802,
-    "timeWeek": 898,
-    "timeMonth": 871,
-    "timeYear": 912,
+    "time": 911,
+    "timeDay": 849,
+    "timeWeek": 910,
+    "timeMonth": 875,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 1177,
-    "timeDay": 811,
-    "timeWeek": 1165,
-    "timeMonth": 1160,
-    "timeYear": 1177,
+    "time": 1175,
+    "timeDay": 1097,
+    "timeWeek": 1103,
+    "timeMonth": 1155,
+    "timeYear": 1175,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
-    "time": 1600,
-    "timeDay": 1244,
-    "timeWeek": 1486,
-    "timeMonth": 1610,
-    "timeYear": 1600,
+    "time": 1597,
+    "timeDay": 1390,
+    "timeWeek": 1330,
+    "timeMonth": 1620,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/www.worldtides.info",
     "slug": "world-tides-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 659,
-    "timeDay": 361,
-    "timeWeek": 924,
-    "timeMonth": 668,
-    "timeYear": 659,
+    "uptimeYear": "99.99%",
+    "time": 653,
+    "timeDay": 366,
+    "timeWeek": 903,
+    "timeMonth": 667,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2021-01-01": 9
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 455,
-    "timeWeek": 500,
-    "timeMonth": 546,
-    "timeYear": 588,
+    "time": 586,
+    "timeDay": 540,
+    "timeWeek": 504,
+    "timeMonth": 549,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 361,
-    "timeWeek": 526,
-    "timeMonth": 400,
-    "timeYear": 399,
+    "time": 397,
+    "timeDay": 324,
+    "timeWeek": 367,
+    "timeMonth": 403,
+    "timeYear": 397,
     "dailyMinutesDown": {}
   }
 ]
