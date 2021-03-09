@@ -4,9 +4,9 @@
     "url": "https://jeremieberduck.com",
     "icon": "https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png",
     "slug": "jeremie-berduck-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.61%",
@@ -16,6 +16,7 @@
     "timeMonth": 964,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2021-03-09": 0,
       "2021-02-21": 338,
       "2021-02-20": 6,
       "2021-01-23": 55
