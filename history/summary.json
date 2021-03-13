@@ -111,19 +111,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://favicons.githubusercontent.com/api.openweathermap.org",
     "slug": "open-weather-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 271,
-    "timeWeek": 304,
-    "timeMonth": 354,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 390,
+    "timeDay": 523,
+    "timeWeek": 385,
+    "timeMonth": 377,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2021-03-13": 0
+      "2021-03-13": 6
     }
   }
 ]
