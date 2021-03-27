@@ -71,17 +71,17 @@
     "url": "https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_TIDE&date=today",
     "icon": "https://favicons.githubusercontent.com/www.worldtides.info",
     "slug": "world-tides-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 827,
-    "timeWeek": 501,
-    "timeMonth": 527,
-    "timeYear": 607,
+    "time": 668,
+    "timeDay": 3404,
+    "timeWeek": 1186,
+    "timeMonth": 715,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2021-01-01": 9
     }
