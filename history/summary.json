@@ -92,9 +92,9 @@
     "url": "https://api.worldweatheronline.com/premium/v1/marine.ashx?key=$API_WORLD_WEATHER_ONLINE&q=52.370216,4.895168&tide=no&fx=yes&tp=1&format=json",
     "icon": "https://favicons.githubusercontent.com/api.worldweatheronline.com",
     "slug": "world-weather-online-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -104,6 +104,7 @@
     "timeMonth": 593,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2021-05-09": 0,
       "2021-03-08": 26
     }
   },
