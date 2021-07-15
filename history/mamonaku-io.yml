@@ -1,7 +1,7 @@
 url: https://mamonaku.io
-status: up
-code: 200
-responseTime: 1037
-lastUpdated: 2021-07-14T23:19:29.948Z
+status: down
+code: 503
+responseTime: 543
+lastUpdated: 2021-07-15T10:42:47.863Z
 startTime: Mon Dec 28 2020 11:49:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
