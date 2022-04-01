@@ -1,7 +1,7 @@
 url: https://jeremieberduck.com
-status: up
-code: 200
-responseTime: 816
-lastUpdated: 2022-03-31T23:22:23.056Z
+status: down
+code: 503
+responseTime: 5725
+lastUpdated: 2022-04-01T15:55:41.243Z
 startTime: Mon Dec 28 2020 11:49:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
