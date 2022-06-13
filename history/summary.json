@@ -12,8 +12,8 @@
     "uptimeYear": "99.82%",
     "time": 995,
     "timeDay": 785,
-    "timeWeek": 980,
-    "timeMonth": 962,
+    "timeWeek": 960,
+    "timeMonth": 955,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2022-04-22": 23,
@@ -42,8 +42,8 @@
     "uptimeYear": "99.84%",
     "time": 1291,
     "timeDay": 1354,
-    "timeWeek": 1258,
-    "timeMonth": 1209,
+    "timeWeek": 1250,
+    "timeMonth": 1204,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2022-04-01": 19,
@@ -69,8 +69,8 @@
     "uptimeYear": "99.85%",
     "time": 1431,
     "timeDay": 1075,
-    "timeWeek": 1548,
-    "timeMonth": 1429,
+    "timeWeek": 1553,
+    "timeMonth": 1422,
     "timeYear": 1461,
     "dailyMinutesDown": {
       "2021-12-04": 23,
@@ -94,8 +94,8 @@
     "uptimeYear": "99.97%",
     "time": 601,
     "timeDay": 297,
-    "timeWeek": 462,
-    "timeMonth": 503,
+    "timeWeek": 437,
+    "timeMonth": 506,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2022-01-07": 124,
@@ -115,7 +115,7 @@
     "uptimeYear": "99.92%",
     "time": 510,
     "timeDay": 255,
-    "timeWeek": 355,
+    "timeWeek": 353,
     "timeMonth": 350,
     "timeYear": 469,
     "dailyMinutesDown": {
@@ -140,17 +140,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://favicons.githubusercontent.com/api.openweathermap.org",
     "slug": "open-weather-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 838,
-    "timeWeek": 518,
-    "timeMonth": 426,
+    "timeWeek": 509,
+    "timeMonth": 423,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   }
 ]
