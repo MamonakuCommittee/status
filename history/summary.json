@@ -112,7 +112,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 509,
     "timeDay": 302,
     "timeWeek": 357,
@@ -139,17 +139,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://favicons.githubusercontent.com/api.openweathermap.org",
     "slug": "open-weather-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 249,
-    "timeWeek": 390,
-    "timeMonth": 381,
-    "timeYear": 406,
-    "dailyMinutesDown": {}
+    "time": 402,
+    "timeDay": 161,
+    "timeWeek": 350,
+    "timeMonth": 371,
+    "timeYear": 405,
+    "dailyMinutesDown": {
+      "2022-07-25": 0
+    }
   }
 ]
