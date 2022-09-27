@@ -93,7 +93,7 @@
     "time": 660,
     "timeDay": 501,
     "timeWeek": 1577,
-    "timeMonth": 1290,
+    "timeMonth": 1311,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2022-09-04": 32,
@@ -137,19 +137,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://favicons.githubusercontent.com/api.openweathermap.org",
     "slug": "open-weather-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 317,
-    "timeWeek": 382,
-    "timeMonth": 400,
-    "timeYear": 404,
+    "time": 402,
+    "timeDay": 385,
+    "timeWeek": 398,
+    "timeMonth": 403,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2022-09-27": 0
+      "2022-09-27": 12
     }
   }
 ]
