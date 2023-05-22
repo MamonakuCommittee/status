@@ -124,19 +124,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://icons.duckduckgo.com/ip3/api.openweathermap.org.ico",
     "slug": "open-weather-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 585,
-    "timeWeek": 500,
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 451,
+    "timeDay": 537,
+    "timeWeek": 495,
     "timeMonth": 432,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-05-22": 0,
+      "2023-05-22": 18,
       "2023-01-30": 18
     }
   }
