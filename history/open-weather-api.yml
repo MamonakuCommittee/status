@@ -1,7 +1,7 @@
 url: https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2023-07-04T23:19:09.071Z
+status: down
+code: 504
+responseTime: 563
+lastUpdated: 2023-07-05T11:41:30.964Z
 startTime: Fri Jan 01 2021 17:21:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
