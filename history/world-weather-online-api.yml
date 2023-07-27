@@ -1,7 +1,7 @@
 url: https://api.worldweatheronline.com/premium/v1/marine.ashx?key=$API_WORLD_WEATHER_ONLINE&q=52.370216,4.895168&tide=no&fx=yes&tp=1&format=json
 status: up
 code: 200
-responseTime: 227
-lastUpdated: 2023-07-26T23:15:03.556Z
+responseTime: 394
+lastUpdated: 2023-07-27T23:15:32.030Z
 startTime: Fri Jan 01 2021 17:21:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
