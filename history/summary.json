@@ -14,7 +14,7 @@
     "timeDay": 1437,
     "timeWeek": 1224,
     "timeMonth": 1207,
-    "timeYear": 1053,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-03-15": 20,
       "2023-01-25": 35
@@ -56,7 +56,7 @@
     "timeDay": 1599,
     "timeWeek": 1419,
     "timeMonth": 1356,
-    "timeYear": 1437,
+    "timeYear": 1438,
     "dailyMinutesDown": {
       "2023-01-25": 35
     }
@@ -76,7 +76,7 @@
     "timeDay": 1597,
     "timeWeek": 813,
     "timeMonth": 682,
-    "timeYear": 832,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2023-11-07": 62,
       "2023-10-13": 19,
@@ -128,19 +128,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://icons.duckduckgo.com/ip3/api.openweathermap.org.ico",
     "slug": "open-weather-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.82%",
     "time": 530,
-    "timeDay": 692,
-    "timeWeek": 677,
-    "timeMonth": 870,
+    "timeDay": 547,
+    "timeWeek": 649,
+    "timeMonth": 864,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2023-11-29": 0,
+      "2023-11-29": 8,
       "2023-11-25": 75,
       "2023-11-17": 55,
       "2023-11-13": 21,
