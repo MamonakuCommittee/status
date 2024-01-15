@@ -4,18 +4,19 @@
     "url": "https://jeremieberduck.com",
     "icon": "https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png",
     "slug": "jeremie-berduck-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1046,
+    "time": 1047,
     "timeDay": 1202,
     "timeWeek": 1120,
     "timeMonth": 1179,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2024-01-15": 0,
       "2023-03-15": 20,
       "2023-01-25": 35
     }
@@ -75,7 +76,7 @@
     "time": 885,
     "timeDay": 566,
     "timeWeek": 621,
-    "timeMonth": 607,
+    "timeMonth": 614,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2023-11-07": 62,
