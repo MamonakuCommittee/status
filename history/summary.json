@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1052,
-    "timeDay": 1458,
-    "timeWeek": 1209,
+    "time": 1053,
+    "timeDay": 1018,
+    "timeWeek": 1192,
     "timeMonth": 1172,
-    "timeYear": 1091,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2023-03-15": 20,
-      "2023-01-25": 35
+      "2023-03-15": 20
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 998,
-    "timeDay": 889,
-    "timeWeek": 688,
-    "timeMonth": 648,
+    "time": 997,
+    "timeDay": 886,
+    "timeWeek": 739,
+    "timeMonth": 663,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2023-03-15": 20,
-      "2023-01-25": 35
+      "2023-03-15": 20
     }
   },
   {
@@ -52,14 +50,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1417,
-    "timeDay": 1802,
-    "timeWeek": 1419,
-    "timeMonth": 1360,
-    "timeYear": 1440,
-    "dailyMinutesDown": {
-      "2023-01-25": 35
-    }
+    "time": 1416,
+    "timeDay": 1137,
+    "timeWeek": 1403,
+    "timeMonth": 1355,
+    "timeYear": 1439,
+    "dailyMinutesDown": {}
   },
   {
     "name": "World Tides API",
@@ -73,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 870,
-    "timeDay": 359,
-    "timeWeek": 508,
-    "timeMonth": 629,
+    "timeDay": 408,
+    "timeWeek": 477,
+    "timeMonth": 624,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2023-11-07": 62,
@@ -108,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 450,
-    "timeDay": 474,
-    "timeWeek": 406,
-    "timeMonth": 591,
-    "timeYear": 452,
+    "timeDay": 370,
+    "timeWeek": 431,
+    "timeMonth": 587,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2023-12-09": 16,
       "2023-10-30": 15,
@@ -132,9 +128,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.81%",
     "time": 539,
-    "timeDay": 467,
-    "timeWeek": 404,
-    "timeMonth": 433,
+    "timeDay": 521,
+    "timeWeek": 420,
+    "timeMonth": 437,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-01-24": 24,
