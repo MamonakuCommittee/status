@@ -4,19 +4,19 @@
     "url": "https://jeremieberduck.com",
     "icon": "https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png",
     "slug": "jeremie-berduck-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1118,
-    "timeDay": 689,
-    "timeWeek": 1004,
-    "timeMonth": 1136,
+    "timeDay": 790,
+    "timeWeek": 1002,
+    "timeMonth": 1131,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shoobie.app",
     "icon": "https://shoobie.app/user/themes/shoobie/images/favicons/apple-touch-icon.png",
     "slug": "shoobie-app",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 545,
-    "timeWeek": 568,
-    "timeMonth": 615,
-    "timeYear": 766,
+    "time": 876,
+    "timeDay": 544,
+    "timeWeek": 565,
+    "timeMonth": 612,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mamonaku.io",
     "icon": "https://icons.duckduckgo.com/ip3/mamonaku.io.ico",
     "slug": "mamonaku-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1423,
-    "timeDay": 813,
-    "timeWeek": 1178,
-    "timeMonth": 1349,
-    "timeYear": 1380,
+    "timeDay": 894,
+    "timeWeek": 1164,
+    "timeMonth": 1340,
+    "timeYear": 1379,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 8
     }
   },
   {
@@ -69,14 +69,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.44%",
+    "uptimeYear": "68.43%",
     "time": 778,
     "timeDay": 1425,
     "timeWeek": 696,
     "timeMonth": 618,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2024-05-25": 812,
+      "2024-05-25": 820,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -226,7 +226,7 @@
     "timeMonth": 353,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-05-25": 812,
+      "2024-05-25": 820,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -358,7 +358,7 @@
     "time": 660,
     "timeDay": 592,
     "timeWeek": 310,
-    "timeMonth": 599,
+    "timeMonth": 602,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2024-04-26": 33,
