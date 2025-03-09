@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1065,
-    "timeDay": 728,
-    "timeWeek": 856,
-    "timeMonth": 895,
-    "timeYear": 1027,
+    "time": 1064,
+    "timeDay": 928,
+    "timeWeek": 863,
+    "timeMonth": 888,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2024-06-18": 64
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 691,
-    "timeDay": 626,
-    "timeWeek": 656,
-    "timeMonth": 739,
+    "timeDay": 621,
+    "timeWeek": 654,
+    "timeMonth": 728,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2024-06-18": 62
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1366,
-    "timeDay": 995,
-    "timeWeek": 1256,
+    "timeDay": 1482,
+    "timeWeek": 1255,
     "timeMonth": 1341,
     "timeYear": 1365,
     "dailyMinutesDown": {
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.worldtides.info.ico",
     "slug": "world-tides-api",
     "status": "down",
-    "uptime": "73.66%",
+    "uptime": "73.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 712,
-    "timeDay": 728,
-    "timeWeek": 664,
-    "timeMonth": 655,
-    "timeYear": 747,
+    "timeDay": 667,
+    "timeWeek": 651,
+    "timeMonth": 656,
+    "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-03-08": 57,
+      "2025-03-09": 62,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -439,8 +440,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldweatheronline.com.ico",
     "slug": "world-weather-online-api",
     "status": "down",
-    "uptime": "73.82%",
+    "uptime": "73.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 370,
-    "timeDay": 293,
-    "timeWeek": 330,
-    "timeMonth": 368,
+    "timeDay": 300,
+    "timeWeek": 326,
+    "timeMonth": 363,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-03-08": 57,
+      "2025-03-09": 62,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -823,8 +824,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -839,10 +839,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.85%",
     "time": 609,
-    "timeDay": 235,
-    "timeWeek": 388,
-    "timeMonth": 483,
-    "timeYear": 633,
+    "timeDay": 214,
+    "timeWeek": 359,
+    "timeMonth": 486,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-02-24": 28,
       "2025-01-04": 20,
