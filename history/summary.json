@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1059,
-    "timeDay": 919,
-    "timeWeek": 890,
-    "timeMonth": 876,
-    "timeYear": 1017,
+    "time": 1058,
+    "timeDay": 794,
+    "timeWeek": 893,
+    "timeMonth": 867,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2024-06-18": 64
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 693,
-    "timeDay": 669,
-    "timeWeek": 760,
-    "timeMonth": 716,
+    "timeDay": 612,
+    "timeWeek": 756,
+    "timeMonth": 709,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2024-06-18": 62
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1365,
-    "timeDay": 1374,
-    "timeWeek": 1408,
-    "timeMonth": 1333,
-    "timeYear": 1368,
+    "timeDay": 1050,
+    "timeWeek": 1359,
+    "timeMonth": 1321,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2024-06-18": 61
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.worldtides.info.ico",
     "slug": "world-tides-api",
     "status": "down",
-    "uptime": "73.18%",
+    "uptime": "73.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 712,
-    "timeDay": 500,
-    "timeWeek": 571,
-    "timeMonth": 657,
-    "timeYear": 750,
+    "timeDay": 908,
+    "timeWeek": 628,
+    "timeMonth": 677,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-03-18": 72,
+      "2025-03-19": 72,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -439,8 +440,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldweatheronline.com.ico",
     "slug": "world-weather-online-api",
     "status": "down",
-    "uptime": "73.34%",
+    "uptime": "73.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 369,
-    "timeDay": 374,
-    "timeWeek": 342,
+    "time": 368,
+    "timeDay": 290,
+    "timeWeek": 341,
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-03-18": 72,
+      "2025-03-19": 72,
+      "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -823,8 +824,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
-      "2024-03-20": 1440,
-      "2024-03-19": 1440
+      "2024-03-20": 1440
     }
   },
   {
@@ -839,10 +839,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.85%",
     "time": 608,
-    "timeDay": 274,
-    "timeWeek": 372,
-    "timeMonth": 482,
-    "timeYear": 627,
+    "timeDay": 398,
+    "timeWeek": 392,
+    "timeMonth": 477,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-02-24": 28,
       "2025-01-04": 20,
