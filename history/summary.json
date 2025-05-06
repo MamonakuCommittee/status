@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1035,
-    "timeDay": 1009,
-    "timeWeek": 1121,
-    "timeMonth": 926,
-    "timeYear": 978,
+    "time": 1036,
+    "timeDay": 847,
+    "timeWeek": 1115,
+    "timeMonth": 923,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2024-06-18": 64
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 700,
-    "timeDay": 663,
-    "timeWeek": 717,
-    "timeMonth": 687,
+    "timeDay": 588,
+    "timeWeek": 695,
+    "timeMonth": 672,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2024-06-18": 62
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1369,
-    "timeDay": 1372,
-    "timeWeek": 1468,
-    "timeMonth": 1409,
-    "timeYear": 1365,
+    "time": 1370,
+    "timeDay": 1760,
+    "timeWeek": 1521,
+    "timeMonth": 1414,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2024-06-18": 61
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.worldtides.info.ico",
     "slug": "world-tides-api",
     "status": "down",
-    "uptime": "70.96%",
+    "uptime": "70.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 750,
-    "timeDay": 733,
-    "timeWeek": 3591,
-    "timeMonth": 1327,
-    "timeYear": 696,
+    "time": 752,
+    "timeDay": 1442,
+    "timeWeek": 3725,
+    "timeMonth": 1361,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-05-05": 80,
+      "2025-05-06": 77,
+      "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -439,8 +440,7 @@
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
-      "2024-05-07": 1440,
-      "2024-05-06": 1440
+      "2024-05-07": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldweatheronline.com.ico",
     "slug": "world-weather-online-api",
     "status": "down",
-    "uptime": "71.12%",
+    "uptime": "71.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 360,
-    "timeDay": 433,
-    "timeWeek": 359,
-    "timeMonth": 323,
-    "timeYear": 347,
+    "time": 359,
+    "timeDay": 233,
+    "timeWeek": 340,
+    "timeMonth": 314,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-05-05": 80,
+      "2025-05-06": 77,
+      "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -823,8 +824,7 @@
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
-      "2024-05-07": 1440,
-      "2024-05-06": 1440
+      "2024-05-07": 1440
     }
   },
   {
@@ -838,11 +838,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 609,
-    "timeDay": 435,
-    "timeWeek": 278,
-    "timeMonth": 370,
-    "timeYear": 375,
+    "time": 611,
+    "timeDay": 1248,
+    "timeWeek": 429,
+    "timeMonth": 400,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-02-24": 28,
       "2025-01-04": 20,
