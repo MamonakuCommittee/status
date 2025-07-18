@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2025-07-17": 1432,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -111,7 +111,7 @@
     "timeMonth": 644,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-07-17": 1433,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -495,7 +495,8 @@
     "timeMonth": 356,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-07-17": 1433,
+      "2025-07-18": 0,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -858,8 +859,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   },
   {
@@ -867,19 +867,19 @@
     "url": "https://api.openweathermap.org/data/2.5/uvi?appid=$API_OPEN_WEATHER&lat=52.370216&lon=4.895168",
     "icon": "https://icons.duckduckgo.com/ip3/api.openweathermap.org.ico",
     "slug": "open-weather-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 395,
-    "timeDay": 2237,
-    "timeWeek": 680,
-    "timeMonth": 568,
-    "timeYear": 397,
+    "time": 409,
+    "timeDay": 4809,
+    "timeWeek": 1518,
+    "timeMonth": 787,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-07-17": 15,
+      "2025-07-17": 22,
       "2025-02-24": 28,
       "2025-01-04": 20,
       "2024-11-20": 16,
