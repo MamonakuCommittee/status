@@ -4,27 +4,29 @@
     "url": "https://jeremieberduck.com",
     "icon": "https://jeremieberduck.com/user/themes/jeremie-berduck-com/images/favicon/apple-touch-icon.png",
     "slug": "jeremie-berduck-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
+    "time": 960,
     "timeDay": 442,
     "timeWeek": 573,
     "timeMonth": 560,
     "timeYear": 926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-29": 2
+    }
   },
   {
     "name": "Shoobie.app",
     "url": "https://shoobie.app",
     "icon": "https://shoobie.app/user/themes/shoobie/images/favicons/apple-touch-icon.png",
     "slug": "shoobie-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 823,
     "timeMonth": 731,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   },
   {
     "name": "Mamonaku.io",
@@ -52,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 1369,
     "dailyMinutesDown": {
-      "2025-07-29": 105,
+      "2025-07-29": 114,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -123,7 +127,7 @@
     "timeMonth": 618,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-07-29": 105,
+      "2025-07-29": 114,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -507,7 +511,7 @@
     "timeMonth": 353,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-07-29": 105,
+      "2025-07-29": 114,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
