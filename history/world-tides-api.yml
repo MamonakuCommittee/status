@@ -1,7 +1,7 @@
 url: https://www.worldtides.info/api/v2?extremes&lat=52.370216&lon=4.895168&key=$API_WORLD_TIDE&date=today
 status: down
 code: 400
-responseTime: 184
-lastUpdated: 2026-08-19T23:27:40.703Z
+responseTime: 173
+lastUpdated: 2026-08-20T23:30:43.773Z
 startTime: 2021-01-01T17:12:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
